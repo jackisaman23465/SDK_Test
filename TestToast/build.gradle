@@ -24,7 +24,7 @@ afterEvaluate {
                 from components.debug
 
                 groupId = 'com.example.testtoast'
-                artifactId = ''
+                artifactId = 'deubg'
                 version = '1.0'
             }
         }
