@@ -15,7 +15,7 @@ afterEvaluate {
 
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'com.example.testtoast'
-                artifactId = ''
+                artifactId = 'release'
                 version = '1.0'
             }
             // Creates a Maven publication called “debug”.
